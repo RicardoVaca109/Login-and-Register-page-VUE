@@ -5,6 +5,7 @@ falsa para realziar pruebas
 
 Para descargarse el json-server(API Dummy):
 https://www.npmjs.com/package/json-server
+
 Crear y  Validar la API Dummy
 1) En una terminal -> npm install json-server
 2) Generar el archivo db.json y llenarla de algunos datos en foramto JSON
