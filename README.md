@@ -1,4 +1,5 @@
 Páginas de Registro y Login en Framework Vue.js
+
 El propósito del proyecto es enseñar el esqueleto, rutas y llamadas a una API (aplicaría igualmente para una base de datos) para realizar una web app de registro y login.
 Este proyecto trata de usar el framework de VUE.js para poder generar 3 vistas: una de registro, otra de login y otra de Home. Tener en cuenta que las rutas usadas aquí son llamadas a una API Dummy, que es una API falsa para realizar pruebas con datos quemados en el código y en la web.
 Como instalar el proyecto:
