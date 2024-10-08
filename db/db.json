@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ricardo",
+      "email": "ric@test.com",
+      "password": "8128eh2e1e21"
+    },
+    {
+      "id": "5864",
+      "name": "Ricardo",
+      "password": "pdspsdppsddps",
+      "email": "rick03093@gmail.com"
+    },
+    {
+      "id": "61bd",
+      "name": "ricardp",
+      "password": "hdajadjadjjaddja",
+      "email": "vaca@test.com"
+    },
+    {
+      "id": "1727",
+      "name": "Marco",
+      "password": "dasdadsadds",
+      "email": "dilolo@gmail.com"
+    },
+    {
+      "id": "d4ea",
+      "name": "DADADA",
+      "password": "1234",
+      "email": "addad@gmail.com"
+    },
+    {
+      "id": "b3b1",
+      "name": "dadad",
+      "password": "ric1234",
+      "email": "adadad@amil.com"
+    },
+    {
+      "id": "aade",
+      "name": "ada",
+      "password": "adadadad",
+      "email": "adadad@gmail.com"
+    },
+    {
+      "id": "2db1",
+      "name": "dadadada",
+      "password": "cubiero82020",
+      "email": "oeoeoe@gmail.com"
+    },
+    {
+      "id": "815c",
+      "name": "emiru",
+      "password": "d21321313133131",
+      "email": "emiru@gamil.com"
+    }
+  ]
+}
